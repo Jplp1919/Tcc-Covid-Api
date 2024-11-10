@@ -1,0 +1,21 @@
+@relation person-weka.filters.unsupervised.attribute.NumericToNominal-R16
+
+@attribute NumeroMorador numeric
+@attribute Rendamédia numeric
+@attribute Sexo numeric
+@attribute Idade numeric
+@attribute FrequentouEscola numeric
+@attribute GrauEnsino numeric
+@attribute ConcluiuSuperior numeric
+@attribute GrauEnsinoMoradorMaisEstudou numeric
+@attribute CorRaca numeric
+@attribute ProcurouServicoSaudeQuinzeDias numeric
+@attribute TipoServicoSaude numeric
+@attribute CumprindoIsolamento numeric
+@attribute MotivoProcuraServico numeric
+@attribute RotinaAtividades numeric
+@attribute RotinaCasa numeric
+@attribute ValorQualitativo {}
+
+@data
+4,3,0,3,1,1,1,1,0,1,1,1,3,2,3,?
